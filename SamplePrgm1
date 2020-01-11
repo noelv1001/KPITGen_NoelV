@@ -1,3 +1,5 @@
+\* Program to input Student information and print using struct *\
+
 #include<stdio.h>
 #include<string.h>
 struct Student
