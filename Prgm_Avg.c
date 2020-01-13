@@ -16,9 +16,9 @@ double getAverage(int arr[],int size)
 {
   int i;
   double avg;
+  int sum=0;
   for(i=0;i<size;i++)
   {
-    int sum;
     sum+=arr[i];
   }
   avg=sum/size;
